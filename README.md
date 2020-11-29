@@ -3,5 +3,6 @@
 
 I am a backend developer, but I have experience with frontend technologies, I am also a data science and ML enthusiast.
 
-There are my statistics in github
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoVallejos&show_icons=true)
+:bar_chart:There are my statistics in github
+
+![Enzo Vallejos github stats](https://github-readme-stats.vercel.app/api?username=EnzoVallejos&&show_icons=true)
