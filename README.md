@@ -4,7 +4,7 @@
 I am a backend developer, but I have experience with frontend technologies, I am also a data science and ML enthusiast.
 
 ### 👨‍💻 My skills are
-- <h4>programming Language</h4>
+- <h4>Programming Language</h4>
 
 <a><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a><img height=40px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"/></a>
@@ -42,7 +42,7 @@ I am a backend developer, but I have experience with frontend technologies, I am
 </a>
 
 ### 🏆 There are my statistics in github
-
-![Enzo Vallejos GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoVallejos&&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoVallejos&layout=compact)](https://github.com/EnzoVallejos/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoVallejos&&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoVallejos&layout=compact">  
+</p>
