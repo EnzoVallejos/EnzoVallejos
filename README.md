@@ -43,6 +43,5 @@ I am a backend developer, but I have experience with frontend technologies, I am
 
 ### 🏆 There are my statistics in github
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnzoVallejos&&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoVallejos&layout=compact">  
+  <img src="https://metrics.lecoq.io/EnzoVallejos"/>
 </p>
