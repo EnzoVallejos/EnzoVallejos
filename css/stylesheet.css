@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.font_montserrat_align_center{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color: #24252A;
+}
+
+.button{
+	height: 40px;
+	width: 120px;
+
+	display:flex;
+  	justify-content: center;
+  	align-items: center;
+  	
+  	font-family: 'Roboto', sans-serif;
+  	font-weight: bold;
+  	background-color:  #4E51BF;
+  	color: white;
+
+  	letter-spacing: 1.3px;
+}
+
+.skills img{
+	height: auto;
+	width: 30px;
+}
+
+.button img{
+	height: 20px;
+	width: 20px;
+	margin-right: 10%;
+}
+
+.container-buttons-skills{
+	justify-content: center;
+}
+
+a:link, a:visited, a:active{
+	text-decoration: none;
+}
+
+html, body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+#container{
+	height: 600px;
+	width: 400px;
+	padding: 0;
+	background-color: white;
+}
+
+#top{
+	width: 100%;
+	height: 20%;
+	background-image: url('../assets/background.jpg');
+	background-position: 0px 33%; 
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	display:flex;
+  	justify-content: center;
+  	align-items: center;
+
+  	margin-bottom: 17%;
+}
+
+#bottom{
+	width: 100%;
+	height: 80%;
+}
+
+#foto_perfil{
+	height: auto;
+	width: 150px;
+	border-radius: 50%;
+
+	position: relative;
+	top: 40%;
+}
+
+#name{
+	font-size: 30px;
+	margin-bottom: 1%;
+}
+
+#about_me{
+	text-align: center;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+
+	margin-bottom: 3%;
+}
+
+#contact{
+	font-size: 20px;
+}
+
+#skills{
+	font-size: 20px;	
+}
+
+#logo-django{
+	height: auto;
+	width: 50px;
+}
+
+#container-skills{
+	margin-left: 1%;
+}
+
+@media (min-width: 300px) and (max-width: 700px){
+	.button{
+		height: 20px;
+		width: 80px;
+
+		font-size: 10px;
+  		letter-spacing: 1.3px;
+	}
+
+	.button img{
+		height: 10px;
+		width: 10px;
+	}
+
+	#container{
+		height: 500px;
+		width: 250px;
+
+		margin-left: 7%;
+	}
+	#top{
+		height: 18%;
+	}
+
+	#foto_perfil{
+		height: auto;
+		width: 100px;
+	}
+
+	#name{
+		font-size: 25px;
+	}
+
+	#about_me{
+		font-size: 11px;
+		padding-left: 7%;	
+		padding-right: 7%;	
+	}
+
+	#container-skills{
+		margin-right: 17px;
+	}
+	#contact{
+		font-size: 16px;
+	}
+
+	#skills{
+		font-size: 16px;
+		margin-bottom: 2%;
+	}
+
+	#logo-django{
+		height: auto;
+		width: 40px;
+	}
+}

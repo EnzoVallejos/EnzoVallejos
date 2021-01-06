@@ -1,0 +1,61 @@
+#container{
+	animation: animacion 1s;
+}
+.button:hover{
+	animation:  animacion-btn .50s both;
+}
+
+#foto_perfil{
+	animation: foto 1s;
+}
+
+
+@media (min-width: 300px) and (max-width: 700px){
+	#container{
+		animation: animacion-responsive 1s;
+	}	
+}
+
+
+@keyframes animacion{
+	from{
+		margin-left: 20%; 
+		opacity: 0;
+	}
+	to{
+		margin-left: 0%; 
+		opacity: 1;
+	}
+}
+
+@keyframes animacion-responsive{
+	from{
+		margin-left: 20%; 
+		opacity: 0;
+	}
+	to{
+		margin-left: 8%; 
+		opacity: 1;
+	}
+}
+
+@keyframes animacion-btn{
+	from{
+		
+	}
+	to{
+		height: 43px;
+		width: 125px;
+	}
+}
+
+@keyframes foto{
+	from{
+		margin-top: 20%; 
+		opacity: 0;
+	}
+	to{
+		margin-top: 0%; 
+		opacity: 1;
+	}
+}
