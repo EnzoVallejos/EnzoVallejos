@@ -22,7 +22,6 @@ I am a backend developer, but I have experience with frontend technologies, I am
 - <h4>Other skills</h4>
 
 <a><img height=50px src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
-<a><img height=40px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png"/></a>
 <a><img height=40px src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a>
 <a><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 
