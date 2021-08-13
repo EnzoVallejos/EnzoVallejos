@@ -12,9 +12,6 @@ I am a backend developer, but I have experience with frontend technologies, I am
 <a><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 
 - <h4>Frameworks and programming library</h4>
-
-<a><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a><img height= 35px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"/></a>
 <a><img height=50px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a> 
 <a><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 
